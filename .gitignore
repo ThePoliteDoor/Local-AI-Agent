@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Keys
+.env
+
+#Other Ai main.py
+main_chatGPT.py
+main_Gemini.py
+main_Ollama.py
