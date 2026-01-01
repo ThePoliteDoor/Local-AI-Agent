@@ -16,3 +16,5 @@ wheels/
 main_chatGPT.py
 main_Gemini.py
 main_Ollama.py
+call_function_Gemini.py
+functions/get_files_info_Gemini.py
