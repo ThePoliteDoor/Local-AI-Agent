@@ -1,5 +1,4 @@
 # calculator/pkg/calculator.py
-
 class Calculator:
     def __init__(self):
         self.operators = {
@@ -11,7 +10,7 @@ class Calculator:
         self.precedence = {
             "+": 1,
             "-": 1,
-            "*": 2,
+            "*": 3,
             "/": 2,
         }
 
